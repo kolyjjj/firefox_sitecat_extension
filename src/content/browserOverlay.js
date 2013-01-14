@@ -34,7 +34,7 @@ var myExtension = {
         // if (win.frameElement) return; // skip iframes/frames
         alert("page is loaded \n" +doc.location.href);
         var jso = win.wrappedJSObject;
-        alert('s.pageName = ' + jso.s.pageName);
+        alert('s.pageName =  ' + jso.s.pageName);
     }
 }
 window.addEventListener("load", function load(event){
