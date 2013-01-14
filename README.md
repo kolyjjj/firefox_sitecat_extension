@@ -1,0 +1,1 @@
+This is a spike using the firefox extension to access the page javascript objects.
